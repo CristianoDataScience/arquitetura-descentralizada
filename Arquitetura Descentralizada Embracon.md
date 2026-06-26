@@ -51,7 +51,7 @@ A estrutura é organizada em cinco camadas, cada uma com uma responsabilidade cl
 
 1. **Segurança & Entrada** — o WAF, a identidade corporativa e o Sensedia (gateway de APIs) protegem e autenticam tudo antes de chegar aos sistemas internos.
 2. **Hub Central de Integração** — um orquestrador único, construído sobre o Apache Kafka, conecta todos os produtos e centraliza a governança de dados e de IA.
-3. **Domínios de negócio** — RH, App do Cliente, Ta na Mão, Simplis+, Convert+ e Marketing têm orquestrador e cache (Redis) próprios, com autonomia real para evoluir no seu próprio ritmo.
+3. **Domínios de negócio** — RH, App do Cliente, Ta na Mão, Simpli+, Convert+ e Marketing têm orquestrador e cache (Redis) próprios, com autonomia real para evoluir no seu próprio ritmo.
 4. **Dados centralizados** — uma base única em Databricks, com curadoria feita por cada área para manter qualidade e governança.
 5. **Infraestrutura transversal** — observabilidade, segurança, auditoria e logs são compartilhados por todos os produtos, sem retrabalho.
 
@@ -68,7 +68,7 @@ Cada produto opera de forma independente, mas todos compartilham os mesmos pilar
 | **RH** | Gestão de recursos humanos descentralizada, com dados em tempo real e autonomia dos departamentos |
 | **App do Cliente** | Aplicação mobile integrada que conecta o cliente aos serviços de forma rápida e intuitiva |
 | **Ta na Mão** | Solução de pagamento e transações diretas, segura e escalável na arquitetura distribuída |
-| **Simplis+** | Plataforma de simplificação de processos com APIs abertas para integração total |
+| **Simpli+** | Plataforma de simplificação de processos com APIs abertas para integração total |
 | **Convert+** | Motor de conversão e processamento de dados, com transformações em tempo real entre sistemas |
 | **Integração total** | Todos os produtos operando como serviços independentes, comunicando-se de forma eficiente via APIs |
 

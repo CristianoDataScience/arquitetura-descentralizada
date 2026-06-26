@@ -4,7 +4,7 @@ Apresentação interativa sobre a arquitetura descentralizada da Embracon, inclu
 
 - **Visão geral** da arquitetura descentralizada
 - **Pilares técnicos**: segurança, integração, dados e infraestrutura
-- **Produtos Embracon** na nova arquitetura (RH, App do Cliente, Ta na Mão, Simplis+, Convert+)
+- **Produtos Embracon** na nova arquitetura (RH, App do Cliente, Ta na Mão, Simpli+, Convert+)
 - **FinOps & Governança de Dados**: controle de custos de nuvem, governança, liberdade para criar IA
 - **Tecnologias** utilizadas na stack
 
